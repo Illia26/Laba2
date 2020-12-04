@@ -1,0 +1,30 @@
+.flexbox{
+    display:flex;
+   margin: 50px 20px solid gray;
+  border: 25px 30px solid gray;
+ }
+ .item1{
+    padding: 30px;
+    border: 5px solid grey;
+    background: green;
+    order:3;
+ }
+ .item2{
+    padding: 30px;
+    border: 5px solid grey;
+    background: darkblue;
+    order:4;
+ }
+ .item3{
+    padding: 30px;
+    border: 5px solid grey;
+    background: blue;
+    order:1;
+
+ }
+ .item4{
+    padding: 30px;
+    border: 5px solid grey;
+    background: red;
+    order:2;
+ }
